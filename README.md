@@ -8,3 +8,10 @@ Open Source Board (forum) engine on MEAN Stack. Main goal is to create lightweig
 * MongoDB
 * Socket IO
 * maybe more... :)
+
+## Features
+* Chat
+* API
+* Real Time Data
+* Templating
+* Plugins
