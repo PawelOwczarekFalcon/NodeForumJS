@@ -7,6 +7,7 @@ Open Source Board (forum) engine on MEAN Stack. Main goal is to create lightweig
 * Angular JS
 * MongoDB
 * Socket IO
+* Material Design
 * maybe more... :)
 
 ## Features
